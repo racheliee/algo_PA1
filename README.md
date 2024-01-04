@@ -29,3 +29,19 @@ Implement the following functions:
 The input consists of a series of operations. 
 The first integer denotes the number of operations to perform (ranging from 1 up to 500,000). 
 Each subsequent line describes an operation, starting with a character indicating the operation type (I for insert, D for delete, F for find) followed by a character specifying the target (M for min, X for max, E for median), and if inserting, the integer to insert.
+
+```
+Example Input:
+8
+I 5
+I 10
+I 20
+I 15
+D M
+F M
+F X
+F E
+
+Expected Output:
+10 20 15
+```
