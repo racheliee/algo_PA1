@@ -1,4 +1,4 @@
-# algorithm_assignment_1
+# algorithm_PA1
 알고리즘개론 Assignment_1 Code
 
 ## 1. Objective
@@ -43,5 +43,7 @@ F X
 F E
 
 Expected Output:
-10 20 15
+10
+20
+15
 ```
